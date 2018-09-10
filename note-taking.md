@@ -8,7 +8,7 @@
 -	미국 precision medicine initiative에서는 common complex diseases도 포함된다.
 -	의학은 새로운 사실이 보다 practical한 정보가 중요하다.
 </br>
-</br>
+
 > Introduction to Structural Bioinformatics (Molecular Modeling) and Computer-Aided Drug Design (CADD)
 -	Biology는 logic이 없다. 새로운 bio pass가 generated한다. 예측 불가능
 -	Molecular docking in protein-protein interactions : 큰 분자와 작은 분자가 잘 붙는다.
