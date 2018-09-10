@@ -3,3 +3,6 @@ Bio Big Data and Precision Medicine Training Course
 
 If you want to open the link in a new tab, use ctrl click.<br/>
 [Course Information](http://bdpm.snubi.org)
+
+
+<a href="http://ksbi.or.kr/">**Korean Society of Bioinformatics**</a> Certified
