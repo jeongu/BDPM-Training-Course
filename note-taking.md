@@ -6,8 +6,7 @@
 -	Precision medicine에서의 driving force가 유전체 데이터
 -	Cancer는 DNA 질환. 따라서 유전체학과 굉장히 연관성이 크다. 한국에서 precision medicine이라고 하면 대개 cancer를 말한다.
 -	미국 precision medicine initiative에서는 common complex diseases도 포함된다.
--	의학은 새로운 사실이 보다 practical한 정보가 중요하다.
-
+-	의학은 새로운 사실이 보다 practical한 정보가 중요하다.</br>
 
 > Introduction to Structural Bioinformatics (Molecular Modeling) and Computer-Aided Drug Design (CADD)
 -	Biology는 logic이 없다. 새로운 bio pass가 generated한다. 예측 불가능
