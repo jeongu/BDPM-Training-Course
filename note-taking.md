@@ -6,18 +6,21 @@
 - vi/vim 명령어
 - shell script 작성
 - 분석 시스템 설정
+</br>
 
 ## 2018년 9월 12일
 > Linux
 
 **진재욱 팀장 (Theragenetex)**
 - Ubuntu 시스템 명령어
+</br>
 
 ## 2018년 9월 11일
 > Linux
 
 **진재욱 팀장 (Theragenetex)**
 - Ubuntu 기본 명령어
+</br>
 
 ## 2018년 9월 10일
 > OT
@@ -35,6 +38,7 @@
 -	Molecular docking in protein-protein interactions : 큰 분자와 작은 분자가 잘 붙는다.
 -	생물은 화학반응이 계속 일어나고, 이것은 단백질이 관장한다. 이 화학반응을 방해하는 것이 약.
 - 이 때 병원균/바이러스를 둘러싸는 틀을 만드는 것이 Pharmacophore Modeling
+</br>
 
 > Linux
 
