@@ -35,7 +35,7 @@
 
 > Introduction to Structural Bioinformatics (Molecular Modeling) and Computer-Aided Drug Design (CADD)
 
-**이근우 (한국생명정보학회장)**
+**이근우 (한국생명정보학회장, 경상대학교 생명과학부 교수)**
 -	Biology는 logic이 없다. 새로운 bio pass가 generated한다. 예측 불가능
 -	Molecular docking in protein-protein interactions : 큰 분자와 작은 분자가 잘 붙는다.
 -	생물은 화학반응이 계속 일어나고, 이것은 단백질이 관장한다. 이 화학반응을 방해하는 것이 약.
