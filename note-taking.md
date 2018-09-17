@@ -1,3 +1,18 @@
+## 2018년 9월 17일
+> Python
+
+**김종수 선임연구원 (테라젠이텍스)**
+- python basic
+</br>
+
+## 2018년 9월 14일
+> Python
+
+**김종수 선임연구원 (테라젠이텍스)**
+- python 개요
+- linux server에서 python 분석 환경 설정
+</br>
+
 ## 2018년 9월 13일
 > Linux
 
