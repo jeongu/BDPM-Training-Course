@@ -1,3 +1,14 @@
+## 2018년 9월 19일
+> Amazon Web Services
+ 
+**이재철 (AWS)**
+- AWS 101 세미나 (cloud computing is new normal)
+</br>
+
+**장석재 (AWS)**
+- AWS 서버 구축
+</br>
+
 ## 2018년 9월 18일
 > Python
 
