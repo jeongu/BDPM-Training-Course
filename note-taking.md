@@ -1,12 +1,22 @@
+## 2018년 9월 20일
+> Amazon Web Services
+
+**장석재 (AWS)**
+- network 설명
+- AWS 101 Hands on Lab
+</br>
+
 ## 2018년 9월 19일
 > Amazon Web Services
  
 **이재철 (AWS)**
-- AWS 101 세미나 (cloud computing is new normal)
+- AWS 101 세미나
 </br>
 
 **장석재 (AWS)**
-- AWS 서버 구축
+- EC2
+- ELB
+- AutoScaling
 </br>
 
 ## 2018년 9월 18일
