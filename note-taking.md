@@ -14,9 +14,7 @@
 </br>
 
 **장석재 (AWS)**
-- EC2
-- ELB
-- AutoScaling
+- EC2 (Instance, ELB, AutoScaling)
 </br>
 
 ## 2018년 9월 18일
