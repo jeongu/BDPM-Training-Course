@@ -1,3 +1,15 @@
+## 2018년 10월 9일
+> Qlik Sense
+
+**강정용 (미소정보기술)**
+- Dashboard 작성
+- Extensions 사용
+</br>
+
+**박민영 (DNA Link BI)**
+- Data Manipulation
+</br>
+
 ## 2018년 10월 8일
 > R
 
