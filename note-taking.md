@@ -6,10 +6,6 @@
 - Extensions 사용
 </br>
 
-**박민영 (DNA Link BI)**
-- Data Manipulation
-</br>
-
 ## 2018년 10월 8일
 > R
 
