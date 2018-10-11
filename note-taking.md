@@ -1,8 +1,16 @@
+## 2018년 10월 11일
+> Qlik Sense
+
+**강정용 (미소정보기술)**
+- Dashboard 작성 심화
+- Script
+</br>
+
 ## 2018년 10월 10일
 > Qlik Sense
 
 **강정용 (미소정보기술)**
-- Dashboard 작성
+- Dashboard 작성 기본
 - Extensions 사용
 </br>
 
