@@ -1,3 +1,14 @@
+## 2018년 10월 15일
+> Web
+
+**정종선 (Syntekabio Ph.D/CEO)**
+- 회사소개
+- 유전체 빅데이터 및 알고리즘 기반 비즈니스
+
+**이선호, 김병준 (Syntekabio)**
+- Somatic & Germline Variant Calling Algorithm
+</br>
+
 ## 2018년 10월 12일
 > R
 
