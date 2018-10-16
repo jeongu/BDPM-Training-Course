@@ -1,3 +1,16 @@
+## 2018년 10월 16일
+> Web
+
+**이선호, 김병준 (Syntekabio)**
+- Variant Calling Algorithm 실습
+</br>
+
+> Second Genome: Microbiome
+
+**김병용 (ChunLab, Inc. 연구소장)**
+- 회사소개
+</br>
+
 ## 2018년 10월 15일
 > 유전체 빅데이터 및 알고리즘 기반 비즈니스
 
