@@ -8,7 +8,15 @@
 > Second Genome: Microbiome
 
 **김병용 (ChunLab, Inc. 연구소장)**
-- 회사소개
+- 회사소개 및 강의
+</br>
+
+> Web Based Analysis Tool for Microbiology
+
+**김경아 (ChunLab, Inc.)**
+- NGS(Next Generation Sequencing)
+- Whole Genome Analysis
+- Comparative Genomics
 </br>
 
 ## 2018년 10월 15일
