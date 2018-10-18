@@ -1,3 +1,10 @@
+## 2018년 10월 18일
+> Web
+
+**김영조, Peter (Syntekabio)**
+- Genome Integration Algorithm 개요 & 실습
+</br>
+
 ## 2018년 10월 17일
 > NGS
 
@@ -9,7 +16,7 @@
 ## 2018년 10월 16일
 > Web
 
-**이선호, 김병준 (Syntekabio)**
+**김영조, Peter (Syntekabio)**
 - Variant Calling Algorithm 실습
 </br>
 
@@ -36,7 +43,7 @@
 
 > Web
 
-**이선호, 김병준 (Syntekabio)**
+**김영조, Peter (Syntekabio)**
 - Somatic & Germline Variant Calling Algorithm
 </br>
 
