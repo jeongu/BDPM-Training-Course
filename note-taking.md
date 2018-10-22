@@ -1,3 +1,16 @@
+## 2018년 10월 22일
+> Web
+
+**이선호 (Syntekabio)**
+- Variant Calling Algorithm & Application
+</br>
+
+> 유전체 기반 플랫폼 비즈니스
+
+**최경환 (EONE-DIAGNOMICS Genome Center 전략기획팀. Ph.D.)**
+- 회사소개 및 강의
+</br>
+
 ## 2018년 10월 19일
 > DeepLearning
 
