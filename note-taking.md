@@ -1,3 +1,10 @@
+## 2018년 10월 23일
+> Web
+
+**김영조, Peter (Syntekabio)**
+- chemical project
+</br>
+
 ## 2018년 10월 22일
 > Web
 
@@ -22,7 +29,7 @@
 > Web
 
 **김영조, Peter (Syntekabio)**
-- Genome Integration Algorithm 개요 & 실습
+- protein project
 </br>
 
 ## 2018년 10월 17일
