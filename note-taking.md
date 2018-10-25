@@ -1,3 +1,21 @@
+## 2018년 10월 25일
+> Web
+
+**설재민 (Syntekabio BI)**
+- Deep Learning based patient stratification
+</br>
+
+## 2018년 10월 24일
+> NGS
+
+**박민영 (DNA Link)**
+- NGS 관련 data format에 대한 이해 및 NGS 분석 및 활용
+</br>
+
+**이승재 (DNA Link)**
+- 동식물 유전체 조합 분석의 이해 2
+</br>
+
 ## 2018년 10월 23일
 > Web
 
@@ -37,7 +55,7 @@
 
 **이승재 (DNA Link)**
 - NGS 분석의 이해
-- 동식물 유전체 조립 분석의 이해
+- 동식물 유전체 조립 분석의 이해 1
 </br>
 
 ## 2018년 10월 16일
