@@ -5,6 +5,16 @@
 - Deep Learning based patient stratification
 </br>
 
+> 유전체 정밀의학 산업
+
+**김지훈 (녹십자지놈)**
+- 회사 소개 및 강의
+</br>
+
+**이병철 (마크로젠)**
+- 회사 소개 및 강의
+</br>
+
 ## 2018년 10월 24일
 > NGS
 
