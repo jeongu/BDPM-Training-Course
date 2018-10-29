@@ -1,3 +1,10 @@
+## 2018년 10월 29일
+> Web
+
+**이선호 (Syntekabio)**
+- Genome Data Integration & Application
+</br>
+
 ## 2018년 10월 25일
 > Web
 
