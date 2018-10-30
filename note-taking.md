@@ -1,3 +1,17 @@
+## 2018년 10월 30일
+> NGS 기술 소개
+
+**박근준 이사 (Thermo Fisher Scientific)**
+- 회사 소개 및 강의
+- 예방의학, DTC 유전자 검사 산업의 동향
+</br>
+
+> Microarray Overview & Application
+
+**박미경 (Thermo Fisher Scientific MA TSS)**
+- 회사 소개 및 강의
+</br>
+
 ## 2018년 10월 29일
 > Web
 
@@ -148,7 +162,7 @@
 
 > 채용설명회
 
-**박근준 이사 (ThemoFisher Scientific)**
+**박근준 이사 (Thermo Fisher Scientific)**
 - 회사소개
 </br>
 
