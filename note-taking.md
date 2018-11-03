@@ -79,7 +79,7 @@
 > Web
 
 **김영조, Peter (Syntekabio)**
-- chemical project
+- Chemical Project
 </br>
 
 ## 2018년 10월 22일
@@ -106,7 +106,7 @@
 > Web
 
 **김영조, Peter (Syntekabio)**
-- protein project
+- Protein Project
 </br>
 
 ## 2018년 10월 17일
@@ -291,7 +291,7 @@
 > Python
 
 **김종수 선임연구원 (테라젠이텍스 바이오 연구소)**
-- regular expression
+- Regular Expression
 - 생물 정보학 프로그래밍
 </br>
 
@@ -299,15 +299,15 @@
 > Python
 
 **김종수 선임연구원 (테라젠이텍스 바이오 연구소)**
-- python basic
+- Python Basic
 </br>
 
 ## 2018년 9월 14일
 > Python
 
 **김종수 선임연구원 (테란젠이텍스 바이오 연구소)**
-- python 개요
-- linux server에서 python 분석 환경 설정
+- Python 개요
+- Linux Server에서 Python 분석 환경 설정
 </br>
 
 ## 2018년 9월 13일
@@ -315,8 +315,8 @@
 
 **진재욱 팀장 (테라젠이텍스 바이오 연구소)**
 - 사용자 관련 명령어
-- vi/vim 명령어
-- shell script 작성
+- VI/VIM 명령어
+- Shell Script 작성
 - 분석 시스템 설정
 </br>
 
