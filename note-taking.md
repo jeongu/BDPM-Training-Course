@@ -1,3 +1,11 @@
+## 2018년 11월 5일
+> Python
+
+**서울대학교 의료정보학협동과정**
+- Medical Informatics Practice
+- VGG16 Model for Binary Classification (Skin melanoma / Bowen's disease)
+</br>
+
 ## 2018년 11월 2일
 > DeepLearning
 
