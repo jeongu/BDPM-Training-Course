@@ -1,3 +1,25 @@
+## 2018년 11월 7일
+> NGS
+
+**박민영 (DNA Link)**
+- VCF 기반 분석 기법
+</br>
+
+## 2018년 11월 6일
+> Ion Torrent NGS Sequencer Precision Medicine
+
+**박근준 이사 (Thermo Fisher Scientific)**
+- 미생물 분석
+- 정밀의료 최신 동향
+</br>
+
+>PCR
+
+**유회숙, 김주현 (Thermo Fisher Scientific)**
+- Real Time PCR 원리와 실습
+- 다양한 어플리케이션 소개
+</br>
+
 ## 2018년 11월 5일
 > Python
 
