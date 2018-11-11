@@ -1,3 +1,10 @@
+## 2018년 11월 9일
+> DeepLearning
+
+**소재우 (테란젠이텍스 바이오 연구소)**
+- Implemeting DNN Using Numpy and Tensorflow
+</br>
+
 ## 2018년 11월 8일
 > Blockchain & Healthcarebigdata
 
