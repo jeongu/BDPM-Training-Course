@@ -1,3 +1,10 @@
+## 2018년 11월 12일
+> R
+
+**서울대학교 생명정보학과**
+- Statistical Analysis with Biomedical Data
+</br>
+
 ## 2018년 11월 9일
 > DeepLearning
 
@@ -43,7 +50,7 @@
 ## 2018년 11월 5일
 > Python
 
-**서울대학교 의료정보학협동과정**
+**서울대학교 생명정보학과**
 - Medical Informatics Practice
 - VGG16 Model for Binary Classification (Skin melanoma / Bowen's disease)
 </br>
@@ -58,7 +65,7 @@
 ## 2018년 11월 1일
 > Python
 
-**서울대학교 의료정보학협동과정**
+**서울대학교 생명정보학과**
 - Bioinformatics Practice
 </br>
 
