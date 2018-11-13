@@ -1,7 +1,15 @@
+## 2018년 11월 13일
+> R
+
+**서울대학교 생명정보학과 김주한 교수님 연구실**
+- Microarray Data Analysis
+- Association of BRCA1 and BRCA2 mutations with survival in ovarian cancer, 2011, JAMA
+</br>
+
 ## 2018년 11월 12일
 > R
 
-**서울대학교 생명정보학과**
+**서울대학교 생명정보학과 김주한 교수님 연구실**
 - Statistical Analysis with Biomedical Data
 </br>
 
@@ -50,7 +58,7 @@
 ## 2018년 11월 5일
 > Python
 
-**서울대학교 생명정보학과**
+**서울대학교 생명정보학과 김주한 교수님 연구실**
 - Medical Informatics Practice
 - VGG16 Model for Binary Classification (Skin melanoma / Bowen's disease)
 </br>
@@ -65,7 +73,7 @@
 ## 2018년 11월 1일
 > Python
 
-**서울대학교 생명정보학과**
+**서울대학교 생명정보학과 김주한 교수님 연구실**
 - Bioinformatics Practice
 </br>
 
