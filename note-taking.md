@@ -1,3 +1,10 @@
+## 2018년 11월 14일
+> NGS
+
+**서채화, 김종민 (DNA Link)**
+- RNA-Seq Data Analysis
+</br>
+
 ## 2018년 11월 13일
 > R
 
