@@ -54,7 +54,7 @@
 ## 2018년 11월 7일
 > NGS
 
-**박민영 (DNA Link)**
+**박민영 (DNA Link BI)**
 - VCF 기반 분석 기법
 </br>
 
@@ -95,7 +95,7 @@
 ## 2018년 10월 31일
 > NGS
 
-**박민영 (DNA Link)**
+**박민영 (DNA Link BI)**
 - NGS 분석 및 활용 & 유전체 데이터의 Annotation
 </br>
 
@@ -148,7 +148,7 @@
 ## 2018년 10월 24일
 > NGS
 
-**박민영 (DNA Link)**
+**박민영 (DNA Link BI)**
 - NGS 관련 data format에 대한 이해 및 NGS 분석 및 활용
 </br>
 
@@ -413,13 +413,11 @@
 </br>
 
 ## 2018년 9월 10일
-> OT
+> Special Lecture
 
 **김주한 (서울대학교 의과대학 시스템바이오정보의학센터장)**
-- 강의
+- OT
 </br>
-
-> Special Lecture
 
 **이근우 (한국생명정보학회장, 경상대학교 생명과학부 교수)**
 - Introduction to Structural Bioinformatics (Molecular Modeling) and Computer-Aided Drug Design (CADD)
