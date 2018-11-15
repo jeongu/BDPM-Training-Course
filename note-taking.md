@@ -1,3 +1,16 @@
+## 2018년 11월 15일
+> Understanding Genome-Wide Association Studies
+
+**한미령**
+- 강의
+</br>
+
+> Bioinformatic Analysis of Posttranscriptional Regulation
+
+**박지연 (가톨릭의대)**
+- 강의
+</br>
+
 ## 2018년 11월 14일
 > NGS
 
@@ -55,7 +68,7 @@
 - 정밀의료 최신 동향
 </br>
 
->PCR
+> PCR
 
 **유회숙, 김주현 (Thermo Fisher Scientific)**
 - Real Time PCR 원리와 실습
