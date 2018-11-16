@@ -1,3 +1,10 @@
+## 2018년 11월 16일
+> DeepLearning
+
+**김종수 선임연구원 (테란젠이텍스 바이오 연구소)**
+- Implemeting DNN Using Tensorflow
+</br>
+
 ## 2018년 11월 15일
 > Special Lecture
 
