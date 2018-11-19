@@ -19,7 +19,7 @@
 ## 2018년 11월 15일
 > Special Lecture
 
-**한미령**
+**한미령 (고려대의대)**
 - Understanding Genome-Wide Association Studies
 </br>
 
