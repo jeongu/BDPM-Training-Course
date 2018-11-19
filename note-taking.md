@@ -1,3 +1,14 @@
+## 2018년 11월 19일
+> Microbiome
+
+**김병용 (ChunLab, Inc. 연구소장)**
+- NGS를 활용한 microbiome 연구방법론 및 연구 동향
+</br>
+
+**윤석환 (ChunLab, Inc.)**
+- BIOiPLUG와 EzBioCloud를 활용한 microbiome 분석 실습
+</br>
+
 ## 2018년 11월 16일
 > DeepLearning
 
