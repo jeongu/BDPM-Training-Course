@@ -1,15 +1,15 @@
 ## 2018년 11월 20일
 > Project Presentation
-
+</br>
 - VCF File and Its Visualization
 - Exploratory Research: What is oral cancer?
 - Response-MOA-Structure Based Drug Discovery
-- Filtering VCF File of Pieffier Syndrome
+- Filtering VCF File of Pfeiffier Syndrome
 - Whole Exome Sequencing Data Analysis
 </br>
 
 > Company Visit
-
+</br>
 - 미소정보기술
 </br>
 
