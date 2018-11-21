@@ -1,3 +1,10 @@
+## 2018년 11월 21일
+> NGS
+
+**박신기 (테라젠이텍스 바이오 연구소)**
+- Whole Genome de novo 분석 및 실습
+</br>
+
 ## 2018년 11월 20일
 > Project Presentation
 
