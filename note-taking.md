@@ -1,3 +1,14 @@
+## 2018년 11월 22일
+> Special Lecture
+
+**이영희 (유타대)**
+- Knowledge-driven multi-omics data integration
+</br>
+
+**강근수 (단국대)**
+- 전사체 빅데이터 기초 및 응용
+</br>
+
 ## 2018년 11월 21일
 > NGS
 
