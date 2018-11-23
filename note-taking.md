@@ -1,3 +1,10 @@
+## 2018년 11월 23일
+> Company Visit
+
+- Syntekabio
+- Pharos iBT
+</br>
+
 ## 2018년 11월 22일
 > Special Lecture
 
