@@ -1,3 +1,18 @@
+## 2018년 11월 27일
+> Project Presentation
+
+- 2종류의 Cancer data 분류모델 및 모델검증
+- 예제 데이터를 통한  Deep learning
+- Breast cancer의 예후와 특정 gene 변이의 연관성
+- protein protein interaction based combination drug
+- Biopython
+</br>
+
+> Company Visit
+
+- ChunLab, Inc.
+</br>
+
 ## 2018년 11월 26일
 > Microbiome
 
