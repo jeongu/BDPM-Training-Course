@@ -1,3 +1,14 @@
+## 2018년 11월 29일
+> Special Lecture
+
+**한미령 (고려대의대)**
+- GWAS 실습
+</br>
+
+**이수현 (건양대의대 정보의학교실)**
+- Biomedical Informatics & EMR based Clinical Research Informatics
+</br>
+
 ## 2018년 11월 28일
 > NGS
 
