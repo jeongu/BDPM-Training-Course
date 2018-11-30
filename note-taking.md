@@ -1,3 +1,10 @@
+## 2018년 11월 30일
+> Company Visit
+
+- Cipherome
+- DNA Link
+</br>
+
 ## 2018년 11월 29일
 > Special Lecture
 
