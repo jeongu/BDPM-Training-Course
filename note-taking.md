@@ -1,3 +1,10 @@
+## 2018년 12월 3일
+> Web
+
+**이재학, 김병준 (Syntekabio)**
+- Genome data integration & application
+</br>
+
 ## 2018년 11월 30일
 > Company Visit
 
