@@ -1,3 +1,13 @@
+## 2018년 12월 4일
+> Project Presentation
+
+- Airbnb: First travel destination
+- Deep Cognition 을 사용한 WideResNet 기반 Brest Cancer deep learning& iris flowers dataset study
+- Relationship between Chemical structures and Genomic features
+- GATK Best Practice and File Parsing
+- RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism
+</br>
+
 ## 2018년 12월 3일
 > Web
 
