@@ -8,6 +8,12 @@
 - RETAIN: An Interpretable Predictive Model for Healthcare using Reverse Time Attention Mechanism
 </br>
 
+> Special Lecture
+
+**한미령 (고려대의대)**
+- Exome Sequencing Analysis in Clinical Research
+</br>
+
 ## 2018년 12월 3일
 > Web
 
