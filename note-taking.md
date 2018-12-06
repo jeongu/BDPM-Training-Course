@@ -1,3 +1,15 @@
+## 2018년 12월 6일
+> Special Lecture
+
+**이영희 (유타대)**
+- Practical Overview of RNA-Seq Analysis Tools
+</br>
+
+**이수연**
+- Introduction to Big Data by NGS
+- Precision Medicine based on Bio-big data with AI
+</br>
+
 ## 2018년 12월 5일
 > NGS
 
