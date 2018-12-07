@@ -1,11 +1,24 @@
+## 2018년 12월 7일
+> Special Lecture
+
+**김헌성 (가톨릭대학교 의료정보학교실)**
+- Waht is Real-World-Evidence?
+- Patient-Generated Health Data From Digital Healthcare
+- Clinical Experiences of EMR-based clinical Research
+</br>
+
+**신현정 (아주대)**
+- Machine Learning for BioMedical Informaticians
+</br>
+
 ## 2018년 12월 6일
 > Special Lecture
 
-**이영희 (유타대)**
+**이영희 (유타대 생명의료정보학과)**
 - Practical Overview of RNA-Seq Analysis Tools
 </br>
 
-**이수연**
+**이수연 (한국기초과학지원연구원)**
 - Introduction to Big Data by NGS
 - Precision Medicine based on Bio-big data with AI
 </br>
@@ -97,7 +110,7 @@
 ## 2018년 11월 22일
 > Special Lecture
 
-**이영희 (유타대)**
+**이영희 (유타대 생명의료정보학과)**
 - Knowledge-driven multi-omics data integration
 </br>
 
@@ -152,7 +165,7 @@
 - Understanding Genome-Wide Association Studies
 </br>
 
-**박지연 (가톨릭의대)**
+**박지연 (가톨릭대의대)**
 - Bioinformatic Analysis of Posttranscriptional Regulation
 </br>
 
