@@ -1,3 +1,10 @@
+## 2018년 12월 10일
+> Web
+
+**이재학, 김병준 (Syntekabio)**
+- Analysis of Variant Difference within Ethnic Groups
+</br>
+
 ## 2018년 12월 7일
 > Special Lecture
 
@@ -50,7 +57,7 @@
 > Web
 
 **이재학, 김병준 (Syntekabio)**
-- Genome data integration & application
+- Creation and Analysis of Protein Multiple Sequence Alignment
 </br>
 
 ## 2018년 11월 30일
@@ -277,7 +284,7 @@
 > Web
 
 **이선호 (Syntekabio)**
-- Genome Data Integration & Application
+- Genome Wide Association Study
 </br>
 
 ## 2018년 10월 26일
