@@ -1,3 +1,14 @@
+## 2018년 12월 14일
+> Special Lecture
+
+**송영수 (한양대 생명의료정보학과)**
+- Clinical Application of NGS in Oncology
+</br>
+
+**신현정 (아주대 산업공학과)**
+- Machine Learning for BioMedical Informaticians
+</br>
+
 ## 2018년 12월 13일
 > Special Lecture
 
@@ -33,7 +44,7 @@
 - Clinical Experiences of EMR-based clinical Research
 </br>
 
-**신현정 (아주대)**
+**신현정 (아주대 산업공학과)**
 - Machine Learning for BioMedical Informaticians
 </br>
 
