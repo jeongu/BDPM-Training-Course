@@ -1,3 +1,9 @@
+## 2018년 12월 15일 ~ 16일
+> Hackathon
+
+http://hack.snubi.org/
+</br>
+
 ## 2018년 12월 14일
 > Special Lecture
 
