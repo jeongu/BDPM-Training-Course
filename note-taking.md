@@ -1,3 +1,17 @@
+## 2018년 12월 17일
+> Special Lecture
+
+**장동진 (여의도성모병원 안과)**
+- 제약 산업정책의 이해
+- 보건의료 데이터를 활용한 임상 연구 사례
+- Framework for FDA's RWE Program
+</br>
+
+> Company Visit
+
+- Thermo Fisher Scientific
+</br>
+
 ## 2018년 12월 15일 ~ 16일
 > Hackathon
 
