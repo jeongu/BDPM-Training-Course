@@ -1,3 +1,15 @@
+## 2018년 12월 18일
+> Special Lecture
+
+**이계화 (서울대학교병원 정밀의료센터)**
+- NGS BASIC 1
+</br>
+
+> Company Visit
+
+- 테라젠이텍스 바이오 연구소
+</br>
+
 ## 2018년 12월 17일
 > Special Lecture
 
