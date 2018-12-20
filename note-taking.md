@@ -1,3 +1,14 @@
+## 2018년 12월 20일
+> Special Lecture
+
+**박유랑 (연세대학교 의과대학 의생명시스템정보학교실)**
+- 보건의료정보
+</br>
+
+**손경아 (아주대학교 소프트웨어학과)**
+- Machine Learning for Biomedical Informatics
+</br>
+
 ## 2018년 12월 19일
 > NGS
 
