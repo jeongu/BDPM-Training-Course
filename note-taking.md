@@ -1,3 +1,15 @@
+## 2018년 12월 21일
+> Special Lecture
+
+**이계화 (서울대학교병원 정밀의료센터)**
+- NGS BASIC 2
+- Cancer Genomics
+</br>
+
+**손경아 (아주대학교 소프트웨어학과)**
+- Machine Learning for Biomedical Informatics
+</br>
+
 ## 2018년 12월 20일
 > Special Lecture
 
