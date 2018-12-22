@@ -1,3 +1,95 @@
+## 2018년 12월 21일
+> Special Lecture
+
+**이계화 (서울대학교병원 정밀의료센터)**
+- NGS BASIC 2
+- Cancer Genomics
+</br>
+
+**손경아 (아주대학교 소프트웨어학과)**
+- Machine Learning for Biomedical Informatics
+</br>
+
+## 2018년 12월 20일
+> Special Lecture
+
+**박유랑 (연세대학교 의과대학 의생명시스템정보학교실)**
+- 보건의료정보
+</br>
+
+**손경아 (아주대학교 소프트웨어학과)**
+- Machine Learning for Biomedical Informatics
+</br>
+
+## 2018년 12월 19일
+> NGS
+
+**김대승 (테라젠이텍스 바이오연구소)**
+- Epigenomics 분석 및 실습
+</br>
+
+## 2018년 12월 18일
+> Special Lecture
+
+**이계화 (서울대학교병원 정밀의료센터)**
+- NGS BASIC 1
+</br>
+
+> Company Visit
+
+- 테라젠이텍스 바이오연구소
+</br>
+
+## 2018년 12월 17일
+> Special Lecture
+
+**장동진 (여의도성모병원 안과)**
+- 제약 산업정책의 이해
+- 보건의료 데이터를 활용한 임상 연구 사례
+- Framework for FDA's RWE Program
+</br>
+
+> Company Visit
+
+- Thermo Fisher Scientific
+</br>
+
+## 2018년 12월 15일 ~ 16일
+> Hackathon
+
+- http://hack.snubi.org/
+</br>
+
+## 2018년 12월 14일
+> Special Lecture
+
+**송영수 (한양대 생명의료정보학과)**
+- Clinical Application of NGS in Oncology
+</br>
+
+**신현정 (아주대 산업공학과)**
+- Machine Learning for BioMedical Informaticians
+</br>
+
+## 2018년 12월 13일
+> Special Lecture
+
+**윤덕용 (아주대학교 의과대학 의료정보학과 MD, PhD)**
+- 임상 빅데이터 연구사례
+</br>
+
+> Company Visit
+
+- 녹십자지놈
+</br>
+
+## 2018년 12월 12일
+> NGS
+
+**백인표 (테라젠이텍스 바이오연구소)**
+- Single Cell RNA-Seq
+</br>
+
 ## 2018년 12월 10일
 > Web
 
@@ -14,7 +106,7 @@
 - Clinical Experiences of EMR-based clinical Research
 </br>
 
-**신현정 (아주대)**
+**신현정 (아주대 산업공학과)**
 - Machine Learning for BioMedical Informaticians
 </br>
 
@@ -33,7 +125,7 @@
 ## 2018년 12월 5일
 > NGS
 
-**유승일 (테라젠이텍스 바이오 연구소)**
+**유승일 (테라젠이텍스 바이오연구소)**
 - RNA-Seq 분석 실습
 </br>
 
@@ -81,7 +173,7 @@
 ## 2018년 11월 28일
 > NGS
 
-**홍성의 (테라젠이텍스 바이오 연구소)**
+**홍성의 (테라젠이텍스 바이오연구소)**
 - WGS/WES 분석 개론
 </br>
 
@@ -128,7 +220,7 @@
 ## 2018년 11월 21일
 > NGS
 
-**박신기 (테라젠이텍스 바이오 연구소)**
+**박신기 (테라젠이텍스 바이오연구소)**
 - Whole Genome de novo 분석 및 실습
 </br>
 
@@ -509,7 +601,7 @@
 ## 2018년 9월 21일
 > Python
 
-**김종수 선임연구원 (테라젠이텍스 바이오 연구소)**
+**김종수 선임연구원 (테라젠이텍스 바이오연구소)**
 - 생물 정보학 프로그래밍
 </br>
 
@@ -535,7 +627,7 @@
 ## 2018년 9월 18일
 > Python
 
-**김종수 선임연구원 (테라젠이텍스 바이오 연구소)**
+**김종수 선임연구원 (테라젠이텍스 바이오연구소)**
 - Regular Expression
 - 생물 정보학 프로그래밍
 </br>
@@ -543,14 +635,14 @@
 ## 2018년 9월 17일
 > Python
 
-**김종수 선임연구원 (테라젠이텍스 바이오 연구소)**
+**김종수 선임연구원 (테라젠이텍스 바이오연구소)**
 - Python Basic
 </br>
 
 ## 2018년 9월 14일
 > Python
 
-**김종수 선임연구원 (테란젠이텍스 바이오 연구소)**
+**김종수 선임연구원 (테라젠이텍스 바이오연구소)**
 - Python 개요
 - Linux Server에서 Python 분석 환경 설정
 </br>
@@ -558,7 +650,7 @@
 ## 2018년 9월 13일
 > Linux
 
-**진재욱 팀장 (테라젠이텍스 바이오 연구소)**
+**진재욱 팀장 (테라젠이텍스 바이오연구소)**
 - 사용자 관련 명령어
 - VI/VIM 명령어
 - Shell Script 작성
@@ -568,14 +660,14 @@
 ## 2018년 9월 12일
 > Linux
 
-**진재욱 팀장 (테라젠이텍스 바이오 연구소)**
+**진재욱 팀장 (테라젠이텍스 바이오연구소)**
 - Ubuntu 시스템 명령어
 </br>
 
 ## 2018년 9월 11일
 > Linux
 
-**진재욱 팀장 (테라젠이텍스 바이오 연구소)**
+**진재욱 팀장 (테라젠이텍스 바이오연구소)**
 - Ubuntu 기본 명령어
 </br>
 
@@ -592,5 +684,5 @@
 
 > Linux
 
-**진재욱 팀장 (테라젠이텍스 바이오 연구소)**
+**진재욱 팀장 (테라젠이텍스 바이오연구소)**
 - Linux 개요 및 Ubuntu 설치
