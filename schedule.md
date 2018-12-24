@@ -1,3 +1,9 @@
+## 2018년 12월 24일
+> Internship
+
+- OT
+</br>
+
 ## 2018년 12월 21일
 > Special Lecture
 
