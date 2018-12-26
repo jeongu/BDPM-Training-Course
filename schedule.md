@@ -1,3 +1,13 @@
+## 2018년 12월 26일
+> Workshop
+
+- 단백질 구조연구
+- Somatic mutations signatures
+- Differential Expression Analysis using edgeR
+- Basic image recognition
+- PyQT5를 이용한 Fastqc 프로그램 만들기
+</br>
+
 ## 2018년 12월 24일
 > Internship
 
