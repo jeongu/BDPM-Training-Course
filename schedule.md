@@ -1,10 +1,19 @@
+## 2018년 12월 27일
+> Workshop
+
+- WGS/WES Pipeline in Docker
+- Microbiome
+- Deep Learning in Medical Image Analysis
+- Overview of research and clinical applications of pharmacogenetics and genomics
+- An introduction to clinical informatics: elements and concepts
+</br>
+
 ## 2018년 12월 26일
 > Workshop
 
 - 단백질 구조연구
 - Somatic mutations signatures
 - Differential Expression Analysis using edgeR
-- Basic image recognition
 - PyQT5를 이용한 Fastqc 프로그램 만들기
 </br>
 
@@ -148,7 +157,6 @@
 ## 2018년 12월 4일
 > Project Presentation
 
-- Airbnb: First travel destination
 - Deep Cognition 을 사용한 WideResNet 기반 Brest Cancer deep learning& iris flowers dataset study
 - Relationship between Chemical structures and Genomic features
 - GATK Best Practice and File Parsing
@@ -197,7 +205,6 @@
 > Project Presentation
 
 - 2종류의 Cancer data 분류모델 및 모델검증
-- 예제 데이터를 통한  Deep learning
 - Breast cancer의 예후와 특정 gene 변이의 연관성
 - protein protein interaction based combination drug
 - Biopython
