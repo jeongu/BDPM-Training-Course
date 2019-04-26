@@ -94,18 +94,18 @@
 ## 2018년 12월 14일
 > Special Lecture
 
-**송영수 (한양대 생명의료정보학과)**
+**송영수 (한양대학교 생명의료정보학과)**
 - Clinical Application of NGS in Oncology
 </br>
 
-**신현정 (아주대 산업공학과)**
+**신현정 (아주대학교 산업공학과)**
 - Machine Learning for BioMedical Informaticians
 </br>
 
 ## 2018년 12월 13일
 > Special Lecture
 
-**윤덕용 (아주대학교 의과대학 의료정보학과 MD, PhD)**
+**윤덕용 (아주대학교 의과대학 의료정보학과)**
 - 임상 빅데이터 연구사례
 </br>
 
@@ -137,14 +137,14 @@
 - Clinical Experiences of EMR-based clinical Research
 </br>
 
-**신현정 (아주대 산업공학과)**
+**신현정 (아주대학교 산업공학과)**
 - Machine Learning for BioMedical Informaticians
 </br>
 
 ## 2018년 12월 6일
 > Special Lecture
 
-**이영희 (유타대 생명의료정보학과)**
+**이영희 (유타대학교 생명의료정보학과)**
 - Practical Overview of RNA-Seq Analysis Tools
 </br>
 
@@ -171,7 +171,7 @@
 
 > Special Lecture
 
-**한미령 (고려대의대)**
+**한미령 (고려대학교 의과대학)**
 - Exome Sequencing Analysis in Clinical Research
 </br>
 
@@ -192,11 +192,11 @@
 ## 2018년 11월 29일
 > Special Lecture
 
-**한미령 (고려대의대)**
+**한미령 (고려대학교 의과대학)**
 - GWAS 실습
 </br>
 
-**이수현 (건양대의대 정보의학교실)**
+**이수현 (건양대학교 의과대학 정보의학교실)**
 - Biomedical Informatics & EMR based Clinical Research Informatics
 </br>
 
@@ -238,11 +238,11 @@
 ## 2018년 11월 22일
 > Special Lecture
 
-**이영희 (유타대 생명의료정보학과)**
+**이영희 (유타대학교 생명의료정보학과)**
 - Knowledge-driven multi-omics data integration
 </br>
 
-**강근수 (단국대)**
+**강근수 (단국대학교)**
 - 전사체 빅데이터 기초 및 응용
 </br>
 
@@ -271,29 +271,26 @@
 ## 2018년 11월 19일
 > Microbiome
 
-**김병용 (ChunLab, Inc. 연구소장)**
+**김병용, 윤석환 (ChunLab, Inc.)**
 - NGS를 활용한 microbiome 연구방법론 및 연구 동향
-</br>
-
-**윤석환 (ChunLab, Inc.)**
 - BIOiPLUG와 EzBioCloud를 활용한 microbiome 분석 실습
 </br>
 
 ## 2018년 11월 16일
 > DeepLearning
 
-**김종수 선임연구원 (테란젠이텍스 바이오연구소)**
+**김종수 (테란젠이텍스 바이오연구소)**
 - Implemeting DNN Using Tensorflow
 </br>
 
 ## 2018년 11월 15일
 > Special Lecture
 
-**한미령 (고려대의대)**
+**한미령 (고려대학교 의과대학)**
 - Understanding Genome-Wide Association Studies
 </br>
 
-**박지연 (가톨릭대의대)**
+**박지연 (가톨릭대학교 의과대학)**
 - Bioinformatic Analysis of Posttranscriptional Regulation
 </br>
 
@@ -329,7 +326,7 @@
 ## 2018년 11월 8일
 > Special Lecture
 
-**한현욱 교수 (차의과학대학교 의학전문대학원 정보의학교실)**
+**한현욱 (차의과학대학교 의학전문대학원 정보의학교실)**
 - Blockchain & Healthcarebigdata
 </br>
 
@@ -349,7 +346,7 @@
 ## 2018년 11월 6일
 > Special Lecture
 
-**박근준 이사 (Thermo Fisher Scientific)**
+**박근준 (Thermo Fisher Scientific)**
 - Ion Torrent NGS Sequencer Precision Medicine
 </br>
 
@@ -390,7 +387,7 @@
 ## 2018년 10월 30일
 > Special Lecture
 
-**박근준 이사 (Thermo Fisher Scientific)**
+**박근준 (Thermo Fisher Scientific)**
 - 회사 소개
 - NGS 기술 소개
 - 예방의학, DTC 유전자 검사 산업의 동향
@@ -436,11 +433,8 @@
 ## 2018년 10월 24일
 > NGS
 
-**박민영 (DNA Link)**
+**박민영, 이승재 (DNA Link)**
 - NGS 관련 data format에 대한 이해 및 NGS 분석 및 활용
-</br>
-
-**이승재 (DNA Link)**
 - 동식물 유전체 조합 분석의 이해 2
 </br>
 
@@ -460,7 +454,7 @@
 
 > Special Lecture
 
-**최경환 (EONE-DIAGNOMICS Genome Center 전략기획팀. Ph.D.)**
+**최경환 (EONE-DIAGNOMICS Genome Center 전략기획팀)**
 - 회사소개
 - 유전체 기반 플랫폼 비즈니스
 </br>
@@ -496,19 +490,16 @@
 
 > Special Lecture
 
-**김병용 (ChunLab, Inc. 연구소장)**
+**김병용, 김경아 (ChunLab, Inc.)**
 - 회사소개
 - Second Genome: Microbiome
-</br>
-
-**김경아 (ChunLab, Inc.)**
 - Web Based Analysis Tool for Microbiology
 </br>
 
 ## 2018년 10월 15일
 > Special Lecture
 
-**정종선 (Syntekabio Ph.D/CEO)**
+**정종선 (Syntekabio CEO)**
 - 회사소개
 - 유전체 빅데이터 및 알고리즘 기반 비즈니스
 </br>
@@ -558,7 +549,7 @@
 
 > Special Lecture
 
-**박근준 이사 (Thermo Fisher Scientific)**
+**박근준 (Thermo Fisher Scientific)**
 - 회사소개
 </br>
 
@@ -576,7 +567,7 @@
 
 > Special Lecture
 
-**이종은 (DNA Link), 김숙 (DNA Link 유전체사업부), 김수연 (DNA Link GPS사업부)**
+**이종은, 김숙, 김수연 (DNA Link)**
 - 회사소개
 - 유전체기반 맞춤의학 전문 헬스케어
 </br>
@@ -630,7 +621,7 @@
 ## 2018년 9월 21일
 > Python
 
-**김종수 선임연구원 (테라젠이텍스 바이오연구소)**
+**김종수 (테라젠이텍스 바이오연구소)**
 - 생물 정보학 프로그래밍
 </br>
 
@@ -656,7 +647,7 @@
 ## 2018년 9월 18일
 > Python
 
-**김종수 선임연구원 (테라젠이텍스 바이오연구소)**
+**김종수 (테라젠이텍스 바이오연구소)**
 - Regular Expression
 - 생물 정보학 프로그래밍
 </br>
@@ -664,14 +655,14 @@
 ## 2018년 9월 17일
 > Python
 
-**김종수 선임연구원 (테라젠이텍스 바이오연구소)**
+**김종수 (테라젠이텍스 바이오연구소)**
 - Python Basic
 </br>
 
 ## 2018년 9월 14일
 > Python
 
-**김종수 선임연구원 (테라젠이텍스 바이오연구소)**
+**김종수 (테라젠이텍스 바이오연구소)**
 - Python 개요
 - Linux Server에서 Python 분석 환경 설정
 </br>
@@ -679,7 +670,7 @@
 ## 2018년 9월 13일
 > Linux
 
-**진재욱 팀장 (테라젠이텍스 바이오연구소)**
+**진재욱 (테라젠이텍스 바이오연구소)**
 - 사용자 관련 명령어
 - VI/VIM 명령어
 - Shell Script 작성
@@ -689,14 +680,14 @@
 ## 2018년 9월 12일
 > Linux
 
-**진재욱 팀장 (테라젠이텍스 바이오연구소)**
+**진재욱 (테라젠이텍스 바이오연구소)**
 - Ubuntu 시스템 명령어
 </br>
 
 ## 2018년 9월 11일
 > Linux
 
-**진재욱 팀장 (테라젠이텍스 바이오연구소)**
+**진재욱 (테라젠이텍스 바이오연구소)**
 - Ubuntu 기본 명령어
 </br>
 
@@ -707,11 +698,11 @@
 - OT
 </br>
 
-**이근우 (한국생명정보학회장, 경상대학교 생명과학부 교수)**
+**이근우 (한국생명정보학회장, 경상대학교 생명과학부)**
 - Introduction to Structural Bioinformatics (Molecular Modeling) and Computer-Aided Drug Design (CADD)
 </br>
 
 > Linux
 
-**진재욱 팀장 (테라젠이텍스 바이오연구소)**
+**진재욱 (테라젠이텍스 바이오연구소)**
 - Linux 개요 및 Ubuntu 설치
