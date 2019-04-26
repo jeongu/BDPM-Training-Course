@@ -1,3 +1,9 @@
+## 2018년 12월 31일 ~ 2019년 2월 22일
+> Internship
+
+- 회사 업무, 개인 프로젝트, 팀 프로젝트 수행
+</br>
+
 ## 2018년 12월 27일
 > Workshop
 
@@ -276,7 +282,7 @@
 ## 2018년 11월 16일
 > DeepLearning
 
-**김종수 선임연구원 (테란젠이텍스 바이오 연구소)**
+**김종수 선임연구원 (테란젠이텍스 바이오연구소)**
 - Implemeting DNN Using Tensorflow
 </br>
 
@@ -316,7 +322,7 @@
 ## 2018년 11월 9일
 > DeepLearning
 
-**소재우 (테란젠이텍스 바이오 연구소)**
+**소재우 (테란젠이텍스 바이오연구소)**
 - Implemeting DNN Using Numpy and Tensorflow
 </br>
 
@@ -336,7 +342,7 @@
 ## 2018년 11월 7일
 > NGS
 
-**박민영 (DNA Link BI)**
+**박민영 (DNA Link)**
 - VCF 기반 분석 기법
 </br>
 
@@ -363,7 +369,7 @@
 ## 2018년 11월 2일
 > DeepLearning
 
-**소재우 (테란젠이텍스 바이오 연구소)**
+**소재우 (테란젠이텍스 바이오연구소)**
 - Tensorflow Basic
 </br>
 
@@ -377,7 +383,7 @@
 ## 2018년 10월 31일
 > NGS
 
-**박민영 (DNA Link BI)**
+**박민영 (DNA Link)**
 - NGS 분석 및 활용 & 유전체 데이터의 Annotation
 </br>
 
@@ -405,7 +411,7 @@
 ## 2018년 10월 26일
 > DeepLearning
 
-**소재우 (테란젠이텍스 바이오 연구소)**
+**소재우 (테란젠이텍스 바이오연구소)**
 - Tensorflow Basic
 </br>
 
@@ -430,7 +436,7 @@
 ## 2018년 10월 24일
 > NGS
 
-**박민영 (DNA Link BI)**
+**박민영 (DNA Link)**
 - NGS 관련 data format에 대한 이해 및 NGS 분석 및 활용
 </br>
 
@@ -462,7 +468,7 @@
 ## 2018년 10월 19일
 > DeepLearning
 
-**소재우 (테란젠이텍스 바이오 연구소)**
+**소재우 (테란젠이텍스 바이오연구소)**
 - Tensorflow Basic
 </br>
 
@@ -516,7 +522,7 @@
 ## 2018년 10월 12일
 > R
 
-**박민영 (DNA Link BI)**
+**박민영 (DNA Link)**
 - 시각화
 </br>
 
@@ -539,14 +545,14 @@
 ## 2018년 10월 8일
 > R
 
-**박민영 (DNA Link BI)**
+**박민영 (DNA Link)**
 - Data Manipulation
 </br>
 
 ## 2018년 10월 5일
 > R
 
-**박민영 (DNA Link BI)**
+**박민영 (DNA Link)**
 - R 기본
 </br>
 
@@ -556,7 +562,7 @@
 - 회사소개
 </br>
 
-**김태형 (테란젠이텍스 바이오 연구소)**
+**김태형 (테란젠이텍스 바이오연구소)**
 - 회사소개
 - 유전체 산업현황과 전망
 </br>
@@ -564,7 +570,7 @@
 ## 2018년 10월 4일
 > R
 
-**박민영 (DNA Link BI)**
+**박민영 (DNA Link)**
 - R 기본
 </br>
 
@@ -579,14 +585,14 @@
 > SQL
 
 **정정임 (미소정보기술)**
-- Microsoft SQL Server 응용
+- PostgreSQL 응용
 </br>
 
 ## 2018년 10월 1일
 > SQL
 
 **정정임 (미소정보기술)**
-- Microsoft SQL Server 고급 (개인적으로 PostgreSQL 실행에 문제가 있어서.)
+- PostgreSQL 고급
 </br>
 
 ## 2018년 9월 28일
