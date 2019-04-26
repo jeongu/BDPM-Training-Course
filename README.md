@@ -6,5 +6,3 @@ If you want to open the link in a new tab, use ctrl click.<br/>
 
 
 <a href="http://ksbi.or.kr/">**Korean Society of Bioinformatics**</a> Certified
-
-'''
